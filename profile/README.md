@@ -30,7 +30,9 @@ Qualixto is an independent consultancy for hands-on cloud data platform engineer
 
 | Repository | What it is |
 |---|---|
+| [data-platform-starter](https://github.com/Qualixto/data-platform-starter) | A runnable baseline data platform: dlt, DuckDB/MotherDuck, dbt and Dagster, with data contracts, quality gates and CI. |
 | [python-template](https://github.com/Qualixto/python-template) | Copier template for production-ready Python projects: uv, ruff, mypy, pytest, pre-commit and CI from the first commit. |
+| [ways-of-working](https://qualixto.github.io/ways-of-working/) | How we build: principles, the six pillars of engineering excellence, a maturity model and practical standards. |
 
 ### Stack
 
